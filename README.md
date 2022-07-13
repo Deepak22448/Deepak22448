@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Deepak Sharma .
-- 👀 I’m interested in Everyting related to JavaScript and new web technologies.
-- 🌱 I’m currently in B.tech in Computer Science.
+- 👋 Hi, I’m Deepak Sharma , Also a newcomer in coding.
+- 👀 I’m interested in Everyting related to JavaScript and new web technologies mostly backend.
+- 🌱 I’m currently doing B.tech in Computer Science.
 - 💞️ I’m looking to collaborate on my projects.
 - 📫 You an contact me on [myLinkedin](https://www.linkedin.com/in/deepak-sharma-725a56220/).
 
